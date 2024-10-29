@@ -6,6 +6,10 @@
 
 ##
 
+<img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 />
+
+##
+
 ![Tiag0 GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagodeCastr0&show_icons=true&theme=dark) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagodeCastr0&hide_progress=true&theme=dark)
 
