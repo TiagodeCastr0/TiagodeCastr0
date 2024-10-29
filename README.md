@@ -6,7 +6,7 @@
 
 ##
 
-<img src="https://www.superti360.com.br/wp-content/uploads/2022/02/0-destaque-linguagens-de-programacao-2019.jpg"/>
+<img src="https://www.superti360.com.br/wp-content/uploads/2022/02/0-destaque-linguagens-de-programacao-2019.jpg" width="1080px"/>
 
 ##
 
