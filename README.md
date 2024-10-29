@@ -6,7 +6,7 @@
 
 ##
 
-<img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 />
+<img src="https://github.com/divyansh956/divyansh956/blob/main/img/github.png"/>
 
 ##
 
