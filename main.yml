@@ -12,14 +12,14 @@ on:
   push:
     branches:
     - master
-    ubuntu-latest
+    
   
 
 jobs:
   generate:
     permissions: 
       contents: write
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
