@@ -11,7 +11,7 @@
 ##
 
 ![Tiag0 GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagodeCastr0&show_icons=true&theme=dark) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagodeCastr0&hide_progress=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
