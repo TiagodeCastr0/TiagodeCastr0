@@ -1,6 +1,6 @@
 ## Olá! Me chamo Tiago!
 
-### 🏫 Eu estudo na escola Vereador José Batista Filho
+### 🏫 Eu estudo na escola Vereador José Batista Filho 
 ### 👨🏽‍💻 Eu estou cursando Informática
 ### 📔 1º ano do Ensino Médio
 
@@ -10,8 +10,9 @@
 
 ##
 
-![Tiag0 GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagodeCastr0&show_icons=true&theme=dark) <br>
+![Tiag0 GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagodeCastr0&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagodeCastr0&hide_progress=true&theme=dark)
+<img scr="https://media.tenor.com/Tu0LCbChaboAAAAM/beagle-dog.gif">
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
