@@ -2,7 +2,7 @@
 
 ### 🏫 Eu estudo na escola Vereador José Batista Filho 
 ### 👨🏽‍💻 Eu estou cursando Informática
-### 📔 2º ano do Ensino Médio
+### 📔 3º ano do Ensino Médio
 
 ##
 
