@@ -12,7 +12,7 @@
 
 ![Tiag0 GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagodeCastr0&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagodeCastr0&hide_progress=true&theme=dark)
-<img scr="https://media.tenor.com/Tu0LCbChaboAAAAM/beagle-dog.gif](https://tenor.com/pt-BR/view/nini-dog-happy-smile-gif-17261982">
+<img scr="https://tenor.com/pt-BR/view/nini-dog-happy-smile-gif-17261982">
 
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"></p>
 
