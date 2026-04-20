@@ -1,6 +1,6 @@
-## Olá! Me chamo Tiago!
+## Olá! Me chamo Tiago de Castro Dutra!
 
-### 🏫 Eu estudo na escola Vereador José Batista Filho 
+### 🏫 Eu estudo na escola EEEP Vereador José Batista Filho 
 ### 👨🏽‍💻 Eu estou cursando Informática
 ### 📔 3º ano do Ensino Médio
 
